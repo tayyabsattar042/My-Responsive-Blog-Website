@@ -100,7 +100,7 @@ html {
 }
 .h1,.h2,.h3,.h4 {
   display: block;
-  color: rgb(255, 255, 255);
+  color: rgb(28, 50, 160);
 }
 .h1 {
   font-size: var(--fs-1);
